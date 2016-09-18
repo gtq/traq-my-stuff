@@ -10,4 +10,6 @@ where things have been stored especially when they have been stored in boxes.
 
 Credits to:
 https://github.com/corylanou/tns-restful-json-api
-for the initial structure of the project.
+for the initial structure of the project and
+https://astaxie.gitbooks.io/build-web-application-with-golang
+for the initial golang sqlite code
